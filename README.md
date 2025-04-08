@@ -23,7 +23,7 @@
 ### 🌐 Contato
 
 [![Instagram](https://img.shields.io/badge/@bryansiim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bryansiim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansiim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Jose-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansiim/)
 
 ---
 
