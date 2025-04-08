@@ -23,17 +23,9 @@
 ### 🌐 Contato
 
 [![Instagram](https://img.shields.io/badge/@bryansiim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bryansiim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanjosefreitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansiim/)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bryanjosefreitas&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjosefreitas&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
 
 <p align="center">🧱 Perfil em construção... Volte em breve para ver minha evolução.</p>
