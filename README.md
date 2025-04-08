@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bryan Freitas</h1>
+<h1 align="center">👋 Bryan José</h1>
 
 <p align="center">
   Estudante de Engenharia de Software, em construção.<br>
