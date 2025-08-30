@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Engenharia de Software, em construção.<br>
-  Explorando o universo do desenvolvimento Fullstack com ênfase em Java ☕<br>
+  Explorando o universo do desenvolvimento Fullstack com ênfase em Backend <br>
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ### 🛠️ Conhecimentos em progresso
 
-- Java básico (POO, estruturas de controle, sintaxe)
-- Git e GitHub
+- C# e .NET
+- Html, Css e Javascrpit
 - Banco de Dados
-- Fundamentos de backend e sistemas de informação
+- Fundamentos de backend, POO e sistemas de informação
 
 ---
 
