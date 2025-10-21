@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de construir coisas que realmente façam sentido com tecnologia.  
+Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de construir coisas com tecnologia.  
 Busco uma oportunidade para aplicar e expandir meus conhecimentos na área de tecnologia.        
 Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS**, **JavaScript**...  
 
