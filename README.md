@@ -4,12 +4,26 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de construir coisas com tecnologia.  
-Busco uma oportunidade para aplicar e expandir meus conhecimentos na área de tecnologia.        
-Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS**, **JavaScript**...  
+Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de transformar ideias em soluções reais.  
+Busco uma oportunidade para aplicar e expandir meus conhecimentos na área de tecnologia.  
+Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS** e **JavaScript**.
 
 ---
 
+### ⚙️ Tecnologias 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/>
+</div>
+
+---
 
 <div align="center">
   <a href="https://github.com/bryansiim">
@@ -20,23 +34,13 @@ Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS**, **JavaScr
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🧩 Projetos em Destaque
 
-#### 💾 Back-End (**Foco principal**)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### 🎨 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Wizardry](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=csswizardry&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🧰 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| [**Portfolio Web**](https://github.com/bryansiim/portfolio-website) | Site pessoal para apresentar projetos e habilidades, com layout responsivo e design moderno. | HTML, CSS, JavaScript |
+| [**Jogo da Cobrinha**](https://github.com/bryansiim/SnakeGame) | Versão do clássico jogo desenvolvida em C#, aplicando conceitos de POO e lógica de colisão e pontuação. | C# |
+| [**Script para player de video**](https://github.com/bryansiim/melhoria-player-faculdade) | Script feito em JavaScript para otimizar o uso do player da faculdade, melhorando a experiência do usuário. | Javascript |
 
 ---
 
