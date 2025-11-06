@@ -38,6 +38,7 @@ Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS** e **JavaSc
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
+| [**Verasium**](https://github.com/bryansiim/Verasium) | Software de detecção de conteúdo gerado por IA. Analisa textos e imagens para identificar se são sintéticos, usando leitura de metadados e análise via IA. | C# (.NET 9), APIs Externas |
 | [**Portfolio Web**](https://github.com/bryansiim/portfolio-website) | Site pessoal para apresentar projetos e habilidades, com layout responsivo e design moderno. | HTML, CSS, JavaScript |
 | [**Jogo da Cobrinha**](https://github.com/bryansiim/SnakeGame) | Versão do clássico jogo desenvolvida em C#, aplicando conceitos de POO e lógica de colisão e pontuação. | C# |
 | [**Script para player de video**](https://github.com/bryansiim/melhoria-player-faculdade) | Script feito em JavaScript para otimizar o uso do player da faculdade, melhorando a experiência do usuário. | Javascript |
