@@ -1,16 +1,16 @@
 <h1 align="center">Bryan José / bryansiim</h1>
-<h3 align="center">💻 Estudante de Engenharia de Software | Desenvolvedor Full Stack</h3>
+<h3 align="center"> Estudante de Engenharia de Software | Desenvolvedor Full Stack</h3>
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de transformar ideias em soluções reais.  
 Busco uma oportunidade para aplicar e expandir meus conhecimentos na área de tecnologia.  
 Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS** e **JavaScript**.
 
 ---
 
-### ⚙️ Tecnologias 
+###  Tecnologias 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET"/>
@@ -34,7 +34,7 @@ Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS** e **JavaSc
 
 ---
 
-### 🧩 Projetos em Destaque
+###  Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
