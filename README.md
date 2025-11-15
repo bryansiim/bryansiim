@@ -6,7 +6,7 @@
 ###  Sobre mim
 Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de transformar ideias em soluções reais.  
 Busco uma oportunidade para aplicar e expandir meus conhecimentos na área de tecnologia.  
-Atualmente estudando **C#**, **.NET**, **ASP.NET**, **HTML**, **CSS** e **JavaScript**.
+Atualmente estudando **C#**, **.NET**, **ASP.NET**, **React**, **HTML**, **CSS** e **JavaScript**.
 
 ---
 
