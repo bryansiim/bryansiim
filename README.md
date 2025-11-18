@@ -6,7 +6,7 @@
 ###  Sobre mim
 Sou um desenvolvedor em formação, movido por curiosidade e pela vontade de transformar ideias em soluções reais.  
 Busco uma oportunidade para aplicar e expandir meus conhecimentos na área de tecnologia.  
-Atualmente estudando **C#**, **.NET**, **ASP.NET**, **React**, **HTML**, **CSS** e **JavaScript**.
+Atualmente estudando **C#**, **.NET**, **ASP.NET**, **React** e **JavaScript**.
 
 ---
 
@@ -39,9 +39,9 @@ Atualmente estudando **C#**, **.NET**, **ASP.NET**, **React**, **HTML**, **CSS**
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
 | [**Verasium**](https://github.com/bryansiim/Verasium) | Software de detecção de conteúdo gerado por IA. Analisa textos e imagens para identificar se são sintéticos, usando leitura de metadados e análise via IA. | C# (.NET 9), APIs Externas |
+| [**Gerenciador de Tarefas API**](https://github.com/bryansiim/GerenciadorDeTarefas.API) | API RESTful com autenticação JWT, hashing de senhas (BCrypt), CRUD de tarefas, filtros e ordenação, integração com SQL Server via EF Core e endpoint de dashboard. | ASP.NET Core, SQL Server, EF Core, JWT |
 | [**Portfolio Web**](https://github.com/bryansiim/portfolio-website) | Site pessoal para apresentar projetos e habilidades, com layout responsivo e design moderno. | HTML, CSS, JavaScript |
-| [**Jogo da Cobrinha**](https://github.com/bryansiim/SnakeGame) | Versão do clássico jogo desenvolvida em C#, aplicando conceitos de POO e lógica de colisão e pontuação. | C# |
-| [**Script para player de video**](https://github.com/bryansiim/melhoria-player-faculdade) | Script feito em JavaScript para otimizar o uso do player da faculdade, melhorando a experiência do usuário. | Javascript |
+| [**Jogo da Cobrinha**](https://github.com/bryansiim/SnakeGame) | Versão do clássico jogo desenvolvida em C#, aplicando conceitos de POO e lógica de colisão e pontuação. | C# (.NET 9) |
 
 ---
 
