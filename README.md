@@ -38,7 +38,7 @@ Atualmente estudando **C#**, **.NET**, **ASP.NET**, **React** e **JavaScript**.
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [**Verasium**](https://github.com/bryansiim/Verasium) | Software de detecção de conteúdo gerado por IA. Analisa textos e imagens para identificar se são sintéticos, usando leitura de metadados e análise via IA. | C# (.NET 9), APIs Externas |
+| [**Verasium**](https://github.com/bryansiim/Verasium) | Software de detecção de conteúdo gerado por IA. Analisa textos, imagens, videos, PDFs, audios... Para identificar se são sintéticos, usando leitura de metadados e análise via IA. | C# (.NET 9), React, APIs Externas |
 | [**Gerenciador de Tarefas API**](https://github.com/bryansiim/GerenciadorDeTarefas.API) | API REST com sistema de login, gerenciamento de tarefas e um dashboard próprio, oferecendo vários endpoints. | ASP.NET Core, SQL Server, EF Core, JWT |
 | [**Portfolio Web**](https://github.com/bryansiim/portfolio-website) | Site pessoal para apresentar projetos e habilidades, com layout responsivo e design moderno. | HTML, CSS, JavaScript |
 | [**Jogo da Cobrinha**](https://github.com/bryansiim/SnakeGame) | Versão do clássico jogo desenvolvida em C#, aplicando conceitos de POO e lógica de colisão e pontuação. | C# (.NET 9) |
