@@ -3,7 +3,7 @@
 
 ---
 
-### 📋 Sobre mim
+###  Sobre mim
 Desenvolvedor Full Stack com experiência prática em construção de sistemas, integrações entre plataformas, automações e agente de
 IA que resolvem problemas reais de negócio.
 Atuo com React, TypeScript, Supabase, n8n e integração com APIs externas como Meta, Google, OpenAI, Claude... Meu projeto pessoal
@@ -38,7 +38,7 @@ principal é desenvolvido em C# (.NET 9) com ASP.NET Core onde aprofundo minha b
 </div>
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
@@ -49,7 +49,7 @@ principal é desenvolvido em C# (.NET 9) com ASP.NET Core onde aprofundo minha b
 
 ---
 
-### 🌎 Entre em contato
+###  Entre em contato
 <p align="left">
 <a href="https://www.linkedin.com/in/bryansiim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://bryansiim.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
