@@ -53,5 +53,5 @@ principal é desenvolvido em C# (.NET 9) com ASP.NET Core onde aprofundo minha b
 ###  Entre em contato
 <p align="left">
 <a href="https://www.linkedin.com/in/bryansiim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://bryansiim.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="https://www.bryansiim.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </p>
