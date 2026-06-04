@@ -44,9 +44,8 @@ principal é desenvolvido em C# (.NET 9) com ASP.NET Core onde aprofundo minha b
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
 | [**Verasium**](https://github.com/bryansiim/Verasium) | Software de detecção de conteúdo gerado por IA. | C# (.NET 9), React, APIs |
-| [**Gerenciador de Tarefas API**](https://github.com/bryansiim/GerenciadorDeTarefas.API) | API REST com sistema de login e dashboard. | ASP.NET Core, SQL Server, EF Core |
-| [**Portfolio Web**](https://github.com/bryansiim/portfolio-website) | Site pessoal responsivo. | HTML, CSS, JavaScript |
-| [**Jogo da Cobrinha**](https://github.com/bryansiim/SnakeGame) | Versão do clássico jogo desenvolvida em C#. | C# (.NET 9) |
+| [**SeeUnfollowers**](https://github.com/bryansiim/SeeUnfollowers) | Ferramenta web que identifica quem deixou de te seguir no Instagram. | React, Python (FastAPI) |
+| [**WebPortifolio**](https://github.com/bryansiim/WebPortifolio) | Site pessoal responsivo com design moderno. | React, TypeScript, CSS |
 
 ---
 
