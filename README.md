@@ -46,7 +46,7 @@ principal é desenvolvido em C# (.NET 9) com ASP.NET Core onde aprofundo minha b
 |----------|------------|-------------|
 | [**Verasium**](https://github.com/bryansiim/Verasium) | Software de detecção de conteúdo gerado por IA. | C# (.NET 9), React, APIs |
 | [**SeeUnfollowers**](https://github.com/bryansiim/SeeUnfollowers) | Ferramenta web que identifica quem deixou de te seguir no Instagram. | React, Python (FastAPI) |
-| [**WebPortifolio**](https://github.com/bryansiim/WebPortifolio) | Site pessoal responsivo com design moderno. | React, TypeScript, CSS |
+| [**WebPortifolio**](https://github.com/bryansiim/WebPortfolio) | Site pessoal responsivo com design moderno. | React, TypeScript, CSS |
 
 ---
 
