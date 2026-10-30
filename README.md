@@ -1,5 +1,5 @@
 <h1 align="center">Bryan José / bryansiim</h1>
-<h3 align="center"> Engenharia de Software | Desenvolvedor Full Stack</h3>
+<h3 align="center"> Desenvolvedor de Software | Automações e IA </h3>
 
 ---
 
